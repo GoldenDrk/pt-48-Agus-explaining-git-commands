@@ -1,0 +1,1 @@
+El comando git diff permite comparar la versión que tienes, por ejemplo, en tu ordenador local, y la última que un compañero haya podido subir en el proyecto en GitHub (git diff HEAD)
