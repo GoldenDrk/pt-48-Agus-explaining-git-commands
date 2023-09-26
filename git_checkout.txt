@@ -1,0 +1,3 @@
+El comando git checkout es para dos cosas:
+-	Revertir los últimos cambios hechos, por ejemplo, en un archivo de texto (git checkout "my_file.txt")
+-	O para cambiar entre ramas, cuando tienes la principal y una o varias suplementarias (git checkout my_branch).
